@@ -1,0 +1,52 @@
+.history {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 11px;
+  width: 100%;
+  margin-top: 0px;
+}
+
+.cont {
+  margin-top: 50px;
+}
+.time-acc {
+  font-family: roboto;
+  color: #64748b;
+  font-weight: 500;
+  margin-top: px;
+}
+
+.domain-cont {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.domain-details {
+  display: flex;
+  align-items: center;
+  width: 90%;
+}
+
+.logo-imgs {
+  margin-right: 8px;
+  width: 30px;
+}
+
+.title {
+  font-family: roboto;
+  margin-right: 8px;
+}
+
+.domain-url {
+  font-family: roboto;
+  color: #64748b;
+}
+
+.del-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
